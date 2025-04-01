@@ -1,0 +1,11 @@
+Claim,Source,Rating,URL,Sentiment
+A vaccine monitoring site shows Covid vaccines cause miscarriages.,BBC,False claim. There were indeed miscarriages reported in these databases - they are unfortunately common events - but this does not mean the jab caused them.,https://www.bbc.co.uk/news/health-57552527,Neutral
+A study shows the Covid vaccine accumulating in the ovaries.,BBC,This is false and misreads a study submitted to the Japanese regulator.,https://www.bbc.co.uk/news/health-57552527,Neutral
+Covid caccines could attack the placenta.,BBC,There is no evidence to support this claim and now studies are emerging to help disprove it.,https://www.bbc.co.uk/news/health-57552527,Neutral
+The European Union is now advising that pregnant women should not receive COVID-19 vaccines because of the risk of infertility and miscarriage.,AP News,False,https://apnews.com/article/fact-check-european-union-covid-vaccines-pregnancy-728944139341,Positive
+A new study shows that a second dose of a COVID-19 vaccine decreases sperm count and after a third shot “it’s almost unrecoverable.”,AP News,Partly false,https://apnews.com/article/fact-check-study-covid-vaccine-male-fertility-025089045690,Positive
+COVID-19 vaccines cause male infertility.,AP News,False,https://apnews.com/article/fact-checking-536782030987,Neutral
+"""All males who have been vaccinated"" against COVID-19 ""are effectively sterile.""",FactCheck.org,False,https://www.factcheck.org/2021/06/scicheck-research-rebuts-baseless-claims-linking-covid-19-vaccines-to-male-infertility/,Positive
+New England Journal of Medicine “proves” 80% miscarriage rate among vaccinated women; COVID-19 vaccines harm men’s and women’s fertility,Science Feedback,Inaccurate,https://science.feedback.org/review/studies-continue-show-covid19-vaccines-dont-harm-fertility/,Positive
+"""The EMA admits COVID-19 vaccination causes infertility""",Science Feedback,Incorrect,https://science.feedback.org/review/no-evidence-covid-19-vaccinations-cause-infertility-pregnancy-complications/,Neutral
+COVID-19 vaccines cause infertility.,Australian Associated Press,False. There is no scientific evidence that COVID vaccines harm the fertility of women or men.,https://www.aap.com.au/factcheck/vaccine-link-to-infertility-barren-of-any-evidence/,Neutral
